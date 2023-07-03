@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #000000;
+    height: 12vh;
+    
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    line-height: 12vh;
+}

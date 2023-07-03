@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    background-color: #000000;
+    height: 3vh;
+}
+.rodape{
+    color: #ffffff;
+    text-align: center;
+    line-height: 3vh;
+}
